@@ -1,5 +1,4 @@
 ## Hi there 
-안녕 난 중오!👋
 
 <!--
 **ccjjoo/ccjjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
